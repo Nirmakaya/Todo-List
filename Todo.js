@@ -59,4 +59,3 @@ deleteAllBtn.onclick = ()=>{
   showTasks();
 }
 
-//ashish todo list
